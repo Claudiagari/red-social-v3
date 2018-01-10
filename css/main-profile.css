@@ -1,0 +1,63 @@
+html {
+    font-family: 'Raleway', sans-serif;
+}
+
+div[id^='view'] {
+    padding-top: 4rem;
+}
+
+/* estilos de header y menu */
+
+.navbar{
+    background : rgba(0, 0, 0, 0.856);
+}
+
+.navbar div a img{
+    padding-top: 0.7rem;
+}
+#log-out i {
+    padding-right: 12px;
+}
+
+/* estilos para la primera vista */
+
+.perfil{
+    margin-top: 2rem;
+}
+.box-post{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+.buttons{
+    margin-top: 1rem;
+    background: #28ebcf;
+}
+
+.buttons a i{
+    background: #28ebcf;
+}
+.buttons button{
+    padding: 0;
+    font-size: 0.8rem;
+    background : #28ebcf;   
+}
+
+.post{
+    padding: 0 1.5rem;
+}
+
+textarea{
+    height: 5rem;
+}
+
+.camera a i{
+    height: 3rem;   
+}
+
+.camera a {
+    width: 3rem;
+}
+/* estilos de la segunda vista */
+/* sugerencias */
+
